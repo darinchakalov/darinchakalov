@@ -7,8 +7,6 @@
 
 - 👨‍💻 All of my projects are available at [https://darinchakalov.com/](https://darinchakalov.com/)
 
-- 📫 How to reach me **darinchakalov@hotmail.com**
-
 - 📄 Know about my experiences [https://darinchakalov.com/assets/CV-Darin.Chakalov.pdf](https://darinchakalov.com/assets/CV-Darin.Chakalov.pdf)
 
 <h3 align="left">Connect with me:</h3>
